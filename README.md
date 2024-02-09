@@ -33,9 +33,9 @@ Access the application in your web browser at http://localhost:3000.
 Folder Structure
 
 
-#Screenshot of working app
+# Screenshot of working app.
 
-![Toy app running.](/assets/working_app.png "San Juan Mountains")
+![Toy app running.](/assets/working_app.png "Reading toys from database")
 
 # The repository is organized as follows:
 
