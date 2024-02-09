@@ -35,7 +35,7 @@ Folder Structure
 
 #Screenshot of working app
 
-![Toy app running.](/assets/Screenshot 2024-01-30 003528.png "San Juan Mountains")
+![Toy app running.](/assets/working_app.png "San Juan Mountains")
 
 # The repository is organized as follows:
 
